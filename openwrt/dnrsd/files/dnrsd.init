@@ -16,6 +16,7 @@ reload_service() {
 
 service_started() {
 	# ToDo: Load the configuration
+	true
 }
 
 start_service()
